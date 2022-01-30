@@ -17,6 +17,10 @@ body {
   background-repeat: no-repeat;
   overflow: hidden;
 }
+h1 {
+  color: rgba(190, 19, 19, 0.425);
+  font-size: 3rem;
+}
 svg {
   max-width: 500px;
 }
